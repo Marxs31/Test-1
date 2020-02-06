@@ -3,3 +3,4 @@
 
 Some|Table
 Expcect|Unexpected
+First Header | Second Header
