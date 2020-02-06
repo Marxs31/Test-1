@@ -3,5 +3,4 @@
 
 <td>Some</td>
 Some|Table
----|---
 Expcect|Unexpected
